@@ -1,0 +1,16 @@
+let subject=("sub1 sub2 sub3");
+let reportCard=("𝓡𝓔𝓟𝓞𝓡𝓣 𝓒𝓐𝓡𝓓");
+let name=("Devendra");
+let school=("Masai");
+let grade=("A");
+let rollno=(25);
+let section=("a");
+let marks=("98    97   99");
+console.log(reportCard);
+console.log(name);
+console.log(rollno);
+console.log(section);
+console.log(school);
+console.log(grade);
+console.log(subject);
+console.log(marks);
